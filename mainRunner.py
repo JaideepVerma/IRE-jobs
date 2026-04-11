@@ -1,8 +1,8 @@
-import ardonagh
+import Ardonagh
 
 
 def run_all():
-    AMZ.main()
+    Ardonagh.main()
     #jpmc.main()
     #swiggy.main()
     #ZS.main()
