@@ -76,8 +76,8 @@ def save_jobs(jobs):
     #print(jobs)
     for job in jobs:
 
-        c.execute("SELECT * FROM jobs WHERE company=? AND job_id=?",
-                  (job["company"], job["job_id"]))
+        c.execute("SELECT * FROM jobs WHERE company=? AND role=?",
+                  (job["company"], job["role"]))
         if not c.fetchone():
             c.execute("""INSERT INTO jobs 
                          (company,industry, job_id, role, description, responsibilities, qualifications, location, posting_date, job_family, job_function,update_date, apply_link) 
