@@ -4,6 +4,21 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
+    "role": "Account Executive \u2013 Enterprise, Commercial Line...",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Arachas\u00b7Sandyford, Dublin",
+    "posting_date": "posting_date",
+    "job_family": "job_family",
+    "job_function": "job_function",
+    "apply_link": "https://careers.ardonagh.com/jobs/7693483-account-executive-enterprise-commercial-lines-broking"
+  },
+  {
+    "id": 2,
+    "company": "Ardonagh",
+    "industry": "industry",
+    "job_id": "Not found",
     "role": "HR Manager",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -15,7 +30,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7640751-hr-manager"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -30,7 +45,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7535944-account-administrator"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -45,7 +60,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7473191-account-executive-business-development-commercial-lines-broking-north-west"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -60,7 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7416021-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -75,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7382190-head-of-risk-compliance"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -90,7 +105,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/6217263-account-executive-personal-lines-cork"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
