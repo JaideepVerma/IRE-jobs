@@ -109,21 +109,6 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
-    "role": "Account Administrator",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Waterford\u00b7Hybrid",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/7535944-account-administrator"
-  },
-  {
-    "id": 9,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
     "role": "Account Executive, Business Development - Comme...",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -135,7 +120,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7473191-account-executive-business-development-commercial-lines-broking-north-west"
   },
   {
-    "id": 10,
+    "id": 9,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -150,7 +135,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7416021-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 11,
+    "id": 10,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -165,7 +150,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7382190-head-of-risk-compliance"
   },
   {
-    "id": 12,
+    "id": 11,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -180,7 +165,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/6217263-account-executive-personal-lines-cork"
   },
   {
-    "id": 13,
+    "id": 12,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
