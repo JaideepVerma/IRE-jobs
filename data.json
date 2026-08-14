@@ -4,6 +4,21 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
+    "role": "Client Services - Team Leader",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Arachas\u00b7Waterford",
+    "posting_date": "posting_date",
+    "job_family": "job_family",
+    "job_function": "job_function",
+    "apply_link": "https://careers.ardonagh.com/jobs/8217923-client-services-team-leader"
+  },
+  {
+    "id": 2,
+    "company": "Ardonagh",
+    "industry": "industry",
+    "job_id": "Not found",
     "role": "QA Auditor - Sandyford, Dublin.",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -15,7 +30,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8149294-qa-auditor-sandyford-dublin"
   },
   {
-    "id": 2,
+    "id": 3,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -30,7 +45,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8125065-account-director-commercial-lines-broking-north-west"
   },
   {
-    "id": 3,
+    "id": 4,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -45,7 +60,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8071103-financial-reporting-manager"
   },
   {
-    "id": 4,
+    "id": 5,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -60,7 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8060787-personal-lines-team-leader"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -75,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8041130-account-executive-commercial-lines-broking-south"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -90,7 +105,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7726355-business-development-director-munster"
   },
   {
-    "id": 7,
+    "id": 8,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -105,7 +120,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7708227-personal-lines-new-business-team-lead"
   },
   {
-    "id": 8,
+    "id": 9,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -120,7 +135,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7707084-account-executive-new-business-team-personal-lines"
   },
   {
-    "id": 9,
+    "id": 10,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -135,7 +150,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7473191-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 10,
+    "id": 11,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -150,7 +165,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/6217263-account-executive-personal-lines-cork"
   },
   {
-    "id": 11,
+    "id": 12,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
