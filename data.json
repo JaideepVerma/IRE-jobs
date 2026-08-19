@@ -4,6 +4,36 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
+    "role": "Account Executive - Personal Lines - Cork",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Arachas\u00b7Cork, Limerick, Tipperary",
+    "posting_date": "posting_date",
+    "job_family": "job_family",
+    "job_function": "job_function",
+    "apply_link": "https://careers.ardonagh.com/jobs/8240999-account-executive-personal-lines-cork"
+  },
+  {
+    "id": 2,
+    "company": "Ardonagh",
+    "industry": "industry",
+    "job_id": "Not found",
+    "role": "Account Executive - Personal Lines - Dublin",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Arachas\u00b7Sandyford, Dublin, Santry",
+    "posting_date": "posting_date",
+    "job_family": "job_family",
+    "job_function": "job_function",
+    "apply_link": "https://careers.ardonagh.com/jobs/8240942-account-executive-personal-lines-dublin"
+  },
+  {
+    "id": 3,
+    "company": "Ardonagh",
+    "industry": "industry",
+    "job_id": "Not found",
     "role": "Account Executive - Personal Lines -  Waterford",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -15,7 +45,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8237198-account-executive-personal-lines-waterford"
   },
   {
-    "id": 2,
+    "id": 4,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -30,7 +60,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8234244-change-programme-manager-12-month-fixed-term-contract"
   },
   {
-    "id": 3,
+    "id": 5,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -45,7 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8231441-account-director-commercial-lines-broking-south-east"
   },
   {
-    "id": 4,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -60,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8217923-client-services-team-leader"
   },
   {
-    "id": 5,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -75,7 +105,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8071103-financial-reporting-manager"
   },
   {
-    "id": 6,
+    "id": 8,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -90,7 +120,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8060787-personal-lines-team-leader"
   },
   {
-    "id": 7,
+    "id": 9,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -105,7 +135,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8041130-account-executive-commercial-lines-broking-south"
   },
   {
-    "id": 8,
+    "id": 10,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -120,7 +150,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7726355-business-development-director-munster"
   },
   {
-    "id": 9,
+    "id": 11,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -135,7 +165,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7708227-personal-lines-new-business-team-lead"
   },
   {
-    "id": 10,
+    "id": 12,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -150,7 +180,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7707084-account-executive-new-business-team-personal-lines"
   },
   {
-    "id": 11,
+    "id": 13,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -165,7 +195,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7473191-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 12,
+    "id": 14,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
