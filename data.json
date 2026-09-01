@@ -64,36 +64,6 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
-    "role": "Account Director, Commercial Lines (Broking) - ...",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Waterford",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8231441-account-director-commercial-lines-broking-south-east"
-  },
-  {
-    "id": 6,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
-    "role": "Client Services - Team Leader",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Waterford",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8217923-client-services-team-leader"
-  },
-  {
-    "id": 7,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
     "role": "Financial Reporting Manager",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -105,7 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8071103-financial-reporting-manager"
   },
   {
-    "id": 8,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -120,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7708227-personal-lines-new-business-team-lead"
   },
   {
-    "id": 9,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -135,18 +105,18 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7707084-account-executive-new-business-team-personal-lines"
   },
   {
-    "id": 10,
+    "id": 8,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
-    "role": "Account Executive  - Commercial Lines, Broking ...",
+    "role": "Financial Planning Consultant",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Arachas\u00b7Letterkenny, Sligo, Cavan\u00b7Hybrid",
+    "location": "Arachas\u00b7Sandyford, Dublin, Santry\u00b7Hybrid",
     "posting_date": "posting_date",
     "job_family": "job_family",
     "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/7473191-account-executive-commercial-lines-broking-north-west"
+    "apply_link": "https://careers.ardonagh.com/jobs/7360489-financial-planning-consultant"
   }
 ]
