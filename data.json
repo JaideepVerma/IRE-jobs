@@ -8,7 +8,7 @@
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Arachas\u00b7Waterford",
+    "location": "Arachas\u00b7Letterkenny",
     "posting_date": "posting_date",
     "job_family": "job_family",
     "job_function": "job_function",
@@ -16,21 +16,6 @@
   },
   {
     "id": 2,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
-    "role": "Account Executive - Personal Lines - Tipperary",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Tipperary",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8353679-account-executive-personal-lines-tipperary"
-  },
-  {
-    "id": 3,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -45,37 +30,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8352394-account-executive-personal-lines-tullamore"
   },
   {
-    "id": 4,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
-    "role": "Pricing & Portfolio Management Analyst",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Orvia Underwriting\u00b7Sandyford, Dublin",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8267900-pricing-portfolio-management-analyst"
-  },
-  {
-    "id": 5,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
-    "role": "Senior Portfolio Management Actuary",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Orvia Underwriting\u00b7Sandyford, Dublin",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8267846-senior-portfolio-management-actuary"
-  },
-  {
-    "id": 6,
+    "id": 3,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -90,7 +45,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7708227-personal-lines-new-business-team-lead"
   },
   {
-    "id": 7,
+    "id": 4,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
