@@ -34,33 +34,18 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
-    "role": "Account Executive - Personal Lines - Galway",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Galway",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8594237-account-executive-personal-lines-galway"
-  },
-  {
-    "id": 4,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
     "role": "Account Administrator - Personal Lines - Waterford",
     "description": "description",
     "responsibilities": "responsibilities",
     "qualifications": "qualifications",
-    "location": "Arachas\u00b7Waterford",
+    "location": "Arachas\u00b7Waterford\u00b7Onsite",
     "posting_date": "posting_date",
     "job_family": "job_family",
     "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8594144-account-administrator-personal-lines-waterford"
+    "apply_link": "https://careers.ardonagh.com/jobs/8594237-account-administrator-personal-lines-waterford"
   },
   {
-    "id": 5,
+    "id": 4,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -75,7 +60,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8594116-account-administrator-personal-lines-tullamore"
   },
   {
-    "id": 6,
+    "id": 5,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -90,22 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8531116-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 7,
-    "company": "Ardonagh",
-    "industry": "industry",
-    "job_id": "Not found",
-    "role": "Account Executive - Personal Lines -  Letterkenny",
-    "description": "description",
-    "responsibilities": "responsibilities",
-    "qualifications": "qualifications",
-    "location": "Arachas\u00b7Letterkenny",
-    "posting_date": "posting_date",
-    "job_family": "job_family",
-    "job_function": "job_function",
-    "apply_link": "https://careers.ardonagh.com/jobs/8353794-account-executive-personal-lines-letterkenny"
-  },
-  {
-    "id": 8,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -120,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7726355-business-development-director-munster"
   },
   {
-    "id": 9,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
