@@ -49,6 +49,21 @@
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
+    "role": "Operations Executive - Personal Lines",
+    "description": "description",
+    "responsibilities": "responsibilities",
+    "qualifications": "qualifications",
+    "location": "Arachas\u00b7Cork\u00b7Onsite",
+    "posting_date": "posting_date",
+    "job_family": "job_family",
+    "job_function": "job_function",
+    "apply_link": "https://careers.ardonagh.com/jobs/8594116-operations-executive-personal-lines"
+  },
+  {
+    "id": 5,
+    "company": "Ardonagh",
+    "industry": "industry",
+    "job_id": "Not found",
     "role": "Account Executive - Commercial Lines, Broking (...",
     "description": "description",
     "responsibilities": "responsibilities",
@@ -60,7 +75,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/8531116-account-executive-commercial-lines-broking-north-west"
   },
   {
-    "id": 5,
+    "id": 6,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
@@ -75,7 +90,7 @@
     "apply_link": "https://careers.ardonagh.com/jobs/7726355-business-development-director-munster"
   },
   {
-    "id": 6,
+    "id": 7,
     "company": "Ardonagh",
     "industry": "industry",
     "job_id": "Not found",
